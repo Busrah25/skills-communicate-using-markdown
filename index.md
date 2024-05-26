@@ -5,3 +5,8 @@
 In this file I added Header 1, 3 and 5 size. I added my name and small greeting. 
 
 ![A cartoon character with cat ears and sunglasses, wearing a Slayer t-shirt, using DJ equipment and a laptop](https://octodex.github.com/images/catstello.png)
+
+
+``` javascript
+var myVar = "Hello, world! It's me Busrah";
+```
