@@ -10,3 +10,9 @@ In this file I added Header 1, 3 and 5 size. I added my name and small greeting.
 ``` javascript
 var myVar = "Hello, world! It's me Busrah";
 ```
+
+- [x] Make a new respiratory
+- [x] Add image with alt text
+- [x] Introduce myself to the world with coding
+- [ ] Add a task list
+- [ ] Complete this assignment
